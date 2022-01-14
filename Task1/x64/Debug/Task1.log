@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\WBLAdvProgramming\Task1\DrawableGameComponent.h(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\WBLAdvProgramming\Task1\x64\Debug\Task1.exe not found or not built by the last incremental link; performing full link
+  Task1.vcxproj -> C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\WBLAdvProgramming\Task1\x64\Debug\Task1.exe
