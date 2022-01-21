@@ -2,10 +2,7 @@
 
 Client::Client(PCWSTR host, int port):Comms(host, port){}
 
-/**
- * @brief Connect to the server
- * @throw std::ConnectionException
- */
+
 void Client::connection() throw()
 {
 	sockaddr_in clientService;
