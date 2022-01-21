@@ -1,0 +1,28 @@
+﻿  Server.cpp
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(29,1): warning C4297: 'Comms::attachSocket': function assumed not to throw an exception but does
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(29,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(35,1): warning C4297: 'Comms::attachSocket': function assumed not to throw an exception but does
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(35,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(48,1): warning C4297: 'Comms::sendMessage': function assumed not to throw an exception but does
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(48,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(58,1): warning C4297: 'Comms::recvMessage': function assumed not to throw an exception but does
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(58,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Server\Server\Server.cpp(24,1): warning C4297: 'Server::connection': function assumed not to throw an exception but does
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Server\Server\Server.cpp(24,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Server\Server\Server.cpp(31,1): warning C5043: 'Server::bindServer': exception specification does not match previous declaration
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Server\Server\Server.h(9): message : see declaration of 'Server::bindServer'
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Server\Server\Server.cpp(54,2): warning C4297: 'Server::sendMessage': function assumed not to throw an exception but does
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Server\Server\Server.cpp(54,2): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Server\Server\Server.cpp(63,2): warning C4297: 'Server::recvMessage': function assumed not to throw an exception but does
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Server\Server\Server.cpp(63,2): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  Server_side.cpp
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(29,1): warning C4297: 'Comms::attachSocket': function assumed not to throw an exception but does
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(29,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(35,1): warning C4297: 'Comms::attachSocket': function assumed not to throw an exception but does
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(35,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(48,1): warning C4297: 'Comms::sendMessage': function assumed not to throw an exception but does
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(48,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(58,1): warning C4297: 'Comms::recvMessage': function assumed not to throw an exception but does
+C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Client\Client\Comms.h(58,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  Generating Code...
+  Server.vcxproj -> C:\Users\fna08\OneDrive - Sky\Documents\Degree Apprenticeship\CO650WBL Advanced Programming\Task2_v2\Server\Debug\Server.exe
